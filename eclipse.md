@@ -1,4 +1,3 @@
-main
 > Entre la noche del domingo y la 
 > madrugada de este lunes tuvo lugar un 
 > eclipse lunar total. El fenómeno pudo 
@@ -7,21 +6,4 @@ main
 > Norteamérica, Europa y África
 
 __Ruido de mate__
-
 # Usuario: ValenPianta
-
-***
-
-```sh
-user=bianfillol
-ecplise="Asi me bautizo martín"
-
-if "martín" in eclipse:
-    print(¨brownies¨)
-else:
-    print("anotado")
-print(f" Soy {user} :)")
-```
- **:)**
-***
-main
