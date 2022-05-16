@@ -24,7 +24,10 @@ Para extender nuestro reino hasta las estrellas.
 ¡Ríndanse ahora o prepárense a luchar!
 
 
-__***El Tema del Grupo:***__
+
+
+
+## __***El Tema del Grupo:***__
 Todo comienza cuando no hay nada que hacer
 
 Cuando todo lo que quieres es tener un publico que entretener
