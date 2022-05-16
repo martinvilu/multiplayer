@@ -6,3 +6,9 @@ hubiesen querido significar sus poderes por medio de esas extrañas signaturas ,
 es perseguida. 
 Ciertamente no faltan lugares en la tierra donde la Naturaleza, movida por una suerte de capricho inteligente, ha esculpido formas humanas. Pero
 aqui el caso es diferente: puesto que es a lo largo de toda la _extension geográfica de una raza_ que la Naturaleza _ha querido hablar_.
+errores consignas
+;)
+teclado mecanico
+hola mundo
+chau mundo 
+print('Hola martin')
