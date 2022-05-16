@@ -31,3 +31,23 @@ Denlé un nombre al equipo que deberá:
    * No hay 'marcas de merge' (`>>>>>>>> ========== <<<<<<<<<`)
 
 ### ¡Que el equipo mas rapido y preciso gane!
+
+## ¡Ranking por orden de PR!
+
+ 1.  [Los ~~Tres~~ Dos Mosqueteros](los_tres_mosqueteros.md) #1
+ 2.  [Tatooine](tatooine.md) #3
+ 3.  [Unidos por el objetivo](Unidos_por_el_objetivo.md) #5
+ 4.  [BrunoNico](Bruno-Nico.md) #6
+ 5.  [Sala13](sala13.md) #9
+ 6.  [Los Musicos](los-musicos.md) #10
+ 7.  [Sala11](sala11.md) #11
+ 8.  [Equipo Dinamita](equipo_dinamita.md) #13
+ 9.  [GitTeam](GitTeam.md) #17
+ 10. [Sala12](sala12.md) #18
+ 11. [Alfa Dinamita](SuperEquipoAlfaDinamita.md) #20
+ 12. [JuanyLuz](JuanyLuz.md) #21
+ 13. [Bendito Eclipse](eclipse.md) #23
+ 15. [Maralvaro](maralvaro.md) #24
+## ¡Menciones Especiales!
+ 16. [Talaverani](Talaverani.md) Que modificaron el README.md (varias veces) #16
+ 17. [GalloDormido](gallodormido.md) ¡¡Tarde pero seguro!! #25
