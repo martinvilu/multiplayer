@@ -1,6 +1,7 @@
 # multiplayer - Hora de practicar
 
-En parejas creadas al azar por las salas de Zoom, podemos coordinar y chatear mejor por Discord (no olviden crear un hilo).
+<<<<<<< HEAD
+En parejas creadas al azar por las salas de Zoom, podemos coordinar y chatear mejor por Discord (no olviden crear un hilo.)
 
 Denlé un nombre al equipo que deberá:
 
