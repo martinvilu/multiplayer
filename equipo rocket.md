@@ -2,21 +2,21 @@
 ### Miembros: Renolfi Ezequiel & Fioramanti Lola
 
 
-Y más vale que teman
-Para unir los pueblos dentro de nuestra nación.
-Para extender nuestro reino hasta las estrellas.
-¡James!
-¡Ríndanse ahora o prepárense a luchar!
-Jessie: Prepárense para los problemas.
-James: Y más vale que teman.
-Jessie: Para proteger al mundo de la devastación.
-James: Para unir a los pueblos dentro de nuestra nación.
-Jessie: Para denunciar los males de la verdad y el amor.
-James: Para extender nuestro reino hasta las estrellas.
-Jessie: ¡Jessie!
-James: ¡James!
-Jessie: ¡El Equipo Rocket viajando a la velocidad de la luz!
-James: ¡Ríndanse ahora o prepárense a luchar!
+#### Y más vale que teman
+#### Para unir los pueblos dentro de nuestra nación.
+#### Para extender nuestro reino hasta las estrellas.
+#### ¡James!
+#### ¡Ríndanse ahora o prepárense a luchar!
+#### Jessie: Prepárense para los problemas.
+#### James: Y más vale que teman.
+#### Jessie: Para proteger al mundo de la devastación.
+#### James: Para unir a los pueblos dentro de nuestra nación.
+#### Jessie: Para denunciar los males de la verdad y el amor.
+#### James: Para extender nuestro reino hasta las estrellas.
+#### Jessie: ¡Jessie!
+#### James: ¡James!
+#### Jessie: ¡El Equipo Rocket viajando a la velocidad de la luz!
+#### James: ¡Ríndanse ahora o prepárense a luchar!
 
 __***El Tema del Grupo:***__
 Todo comienza cuando no hay nada que hacer
