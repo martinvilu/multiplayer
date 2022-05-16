@@ -6,4 +6,6 @@ prueba.
 
 Cristian Mogensen @CristianMogensen y Valentin Mardones @Chabok52
 
-Es una prueba impresionante
+Es una prueba impresionante.
+Aunque ya no es una prueba, porque cumple con todos los requisitos.
+
