@@ -1,7 +1,9 @@
-Hola Mundo soy Cande Ceruse  
-Que ondaaa??  
-<3 Tdo chelo  
-multiplayer  
-Candelaria Ceruse  
-Gueno aqui va nada  
+# Equipo Alfa Dinamita
+### Miembros:
+
+*Mariano Oyarzo*
+*Candelaria Ceruse*  
+-Usuario github: [OyMar](https://github.com/OyMar)  
+No se que poner :sunglasses:
 **Espero que salga bien el merge:cherry_blossom:**
+
