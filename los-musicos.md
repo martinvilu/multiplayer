@@ -14,14 +14,9 @@ Integrantes:
 
 ~~QuantumFracture~~ Crespo
 
-
-
-*"So ya thought ya*
-
-*Might like to go to the show*
-
-*To feel the warm thrill of confusion*
-
-*That space cadet glow"*
+"So ya thought ya
+Might like to go to the show
+To feel the warm thrill of confusion
+That space cadet glow"
 
 # **Fin**
