@@ -1,6 +1,7 @@
 # equipo rocket
 ### Miembros: Renolfi Ezequiel & Fioramanti Lola
 
+El Rap de Fernanfloo:
 Todo comienza cuando no hay nada que hacer
 Cuando todo lo que quieres es tener un publico que entretener
 Cuando haces algo random
