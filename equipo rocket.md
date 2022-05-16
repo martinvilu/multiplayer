@@ -7,6 +7,16 @@ Para unir los pueblos dentro de nuestra nación.
 Para extender nuestro reino hasta las estrellas.
 ¡James!
 ¡Ríndanse ahora o prepárense a luchar!
+Jessie: Prepárense para los problemas.
+James: Y más vale que teman.
+Jessie: Para proteger al mundo de la devastación.
+James: Para unir a los pueblos dentro de nuestra nación.
+Jessie: Para denunciar los males de la verdad y el amor.
+James: Para extender nuestro reino hasta las estrellas.
+Jessie: ¡Jessie!
+James: ¡James!
+Jessie: ¡El Equipo Rocket viajando a la velocidad de la luz!
+James: ¡Ríndanse ahora o prepárense a luchar!
 
 El Rap de Fernanfloo:
 Todo comienza cuando no hay nada que hacer
@@ -73,5 +83,3 @@ Todo es una locura
 Mi personaje también tiene una mente inmadura
 Te saludo desde aquí, tu país El Salvador
 Espero que prosperes y sigás siendo MEJOR!!
-
-
