@@ -10,5 +10,5 @@ else:
     print("anotado")
 print(f" Soy {user} :)")
 ```
-
+ **:)**
 ***
