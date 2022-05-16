@@ -1,6 +1,13 @@
 # equipo rocket
 ### Miembros: Renolfi Ezequiel & Fioramanti Lola
 
+
+Y más vale que teman
+Para unir los pueblos dentro de nuestra nación.
+Para extender nuestro reino hasta las estrellas.
+¡James!
+¡Ríndanse ahora o prepárense a luchar!
+
 El Rap de Fernanfloo:
 Todo comienza cuando no hay nada que hacer
 Cuando todo lo que quieres es tener un publico que entretener
@@ -66,3 +73,5 @@ Todo es una locura
 Mi personaje también tiene una mente inmadura
 Te saludo desde aquí, tu país El Salvador
 Espero que prosperes y sigás siendo MEJOR!!
+
+
