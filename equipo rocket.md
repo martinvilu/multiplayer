@@ -2,6 +2,7 @@
 ### Miembros: Renolfi Ezequiel & Fioramanti Lola
 
 
+
 Prepárense para los problemas.
 
 Y más vale que teman.
@@ -21,6 +22,7 @@ Para extender nuestro reino hasta las estrellas.
 *¡El Equipo Rocket viajando a la velocidad de la luz!*
 
 ¡Ríndanse ahora o prepárense a luchar!
+
 
 __***El Tema del Grupo:***__
 Todo comienza cuando no hay nada que hacer
