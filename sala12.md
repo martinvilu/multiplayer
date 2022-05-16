@@ -1,5 +1,8 @@
 # Equipo sala 12
 ## Integrantes:
-### Abel Huayquil, José Lambrechts
+| Nombre | Usuario github |
+| :-: | :-: |
+| Abel Huayquil | Abel-Huayquil |
+|José Lambrechts | alt165 |
+
 Hola mundo
-lorem ipsum holamundo
