@@ -6,4 +6,3 @@
 |José Lambrechts | alt165 |
 
 Hola mundo
-lorem ipsum
