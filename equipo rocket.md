@@ -18,68 +18,130 @@ James: ¡James!
 Jessie: ¡El Equipo Rocket viajando a la velocidad de la luz!
 James: ¡Ríndanse ahora o prepárense a luchar!
 
-El Rap de Fernanfloo:
+__***El Tema del Grupo:***__
 Todo comienza cuando no hay nada que hacer
+
 Cuando todo lo que quieres es tener un publico que entretener
-Cuando haces algo random
-Sin imaginarte que algún día el mundo de tí te estará hablando
+
+Cuando haces algo *random*
+
+Sin imaginarte que algún día **el mundo de tí te estará hablando**
+
 Sólo haces lo que te gusta
+
 Y resulta que lo que haces mucha gente lo disfruta
-Ingresas a YOUTUBE!!... y creas un canal
+
+Ingresas a **YOUTUBE!!**... y creas un canal
+
 Creas un personaje y dejas de ser normal
-Miles de LIKES, miles de VISTAS
+
+Miles de *LIKES*, miles de *VISTAS*
+
 Viendo tu nombre en las mejores listas
-Miles de fans, se hacen MILLONES!!
-Se vuelven realidad muchas de tus ILUSIONES!!
+
+Miles de fans, __se hacen MILLONES!!__
+
+Se vuelven realidad muchas de tus **ILUSIONES!!**
+
 Botón de plata, botón de oro
-Y la placa de diamante que es el mayor tesoro
-Poco lo has logrado y de uno es que te voy hablar yo
-Este es el rap de FERNANFLOO!
+
+Y __la placa de diamante__ que es el mayor tesoro
+
+Pocos lo han logrado y de uno es que te voy hablar yo
+
+Este es el rap de **FERNANFLOO!**
+
 EL RAP DE FERNANFLOO
-El rap de fernanfloo flo flo flo flo
+
+El rap de fernanfloo *flo flo flo flo*
+
 EL RAP DE FERNANFLOO
-Si no te gusta andate al CHORIZO!
+
+__Si no te gusta andate al *CHORIZO*!__
+
 EL RAP DE FERNANFLOO
-El rap de fernanfloo flo flo flo flo
+
+El rap de fernanfloo *flo flo flo flo*
+
 EL RAP DE FERNANFLOO
-Si no te gusta andate al CARAJOOO!
+
+__Si no te gusta andate al *CARAJOOO*!__
+
 Si quieres ver un gameplay matando de la risa
-Pues mira fernanfloo... y hazlo deprisa
+
+Pues mira fernanfloo... **y hazlo deprisa**
+
 Fernan el CRACK, Fernan el FAIL
-Escucha la voz zukulenta del MMMM YEAH!!!
+
+Escucha la voz zukulenta del *MMMM YEAH*!!!
+
 Me sorprende hasta donde has llegado, de verdad
-La gente mira tu canal y dice: OH MY GOD!!
+
+La gente mira tu canal y dice: ***OH MY GOD***!!
+
 Te pelas, te pasas y a veces la regas
-Y es entretenido que juegues GEOMETRY DASH
+
+Y es entretenido que juegues *GEOMETRY DASH*
+
 EL RAP DE FERNANFLOO
-El rap de fernanfloo flo flo flo flo
+
+El rap de fernanfloo *flo flo flo flo*
+
 EL RAP DE FERNANFLOO
-Si no te gusta andate al CHORIZO!
+__Si no te gusta andate al *CHORIZO*!__
+
 EL RAP DE FERNANFLOO
-El rap de fernanfloo flo flo flo flo
+
+El rap de fernanfloo *flo flo flo flo*
+
 EL RAP DE FERNANFLOO
-Si no te gusta andate al CARAJOOO!
+
+__Si no te gusta andate al *CARAJOOO*!__
+
 Con la rana René, con tu perrito Curly
-Goku que no te viola y no es que yo me burle, PERO!
-Me mata de la risa tu cara del MEME
-Es rara la ocasión en la que no menciones "PENE"
-Con tu gorra de Luigi, tu risa desquiciada
-Lentes de violador y tu sonrisa de metal
-Las cosas que dices cuando "Se te lengua la traba"
+
+Goku que no te `-----` y no es que yo me burle, **PERO!**
+
+__Me mata de la risa tu cara del MEME__
+
+Es rara la ocasión en la que no menciones `----`
+
+Con tu gorra de Luigi, tu risa *desquiciada*
+
+Lentes de `--------` y tu sonrisa de metal
+
+Las cosas que dices cuando *"Se te lengua la traba"*
+
 Tu cara de locura cuando te desesperás
+
 EL RAP DE FERNANFLOO
-El rap de fernanfloo flo flo flo flo
+
+El rap de fernanfloo *flo flo flo flo*
+
 EL RAP DE FERNANFLOO
-Si no te gusta andate al CHORIZO!
+
+__Si no te gusta andate al *CHORIZO*!__
+
 EL RAP DE FERNANFLOO
-El rap de fernanfloo flo flo flo flo
+
+El rap de fernanfloo *flo flo flo flo*
+
 EL RAP DE FERNANFLOO
-Si no te gusta andate al CARAJOOO!
-Eres un CRACK, lograste lo que pocos han logrado
-La gente esta locá, yo igual estoy alocado
-Por eso tus locura me parecen divertidas
+
+__Si no te gusta andate al *CARAJOOO*!__
+
+Eres un **CRACK**, lograste lo que pocos han logrado
+
+La gente esta loca, yo igual estoy alocado
+
+_Por eso tus locura me parecen divertidas_
+
 Vale un chorizo si hay mentes pervertidas
-Todo es una locura
+
+*Todo es una locura*
+
 Mi personaje también tiene una mente inmadura
-Te saludo desde aquí, tu país El Salvador
-Espero que prosperes y sigás siendo MEJOR!!
+
+Te saludo desde aquí, *tu país El Salvador*
+
+__Espero que prosperes y sigás siendo **MEJOR**!!__
