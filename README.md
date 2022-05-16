@@ -9,7 +9,7 @@
 ![Rickroll](https://th.bing.com/th/id/OIP.3YBCFdsfxsiIUtkt0FIA4wHaDt?pid=ImgDet&rs=1)
 
 ### Equipo Talaverani :space_invader:
-
+# Usuarios: [FioroniT](https://github.com/FioroniT) & [IvoEST88](https://github.com/IvoEST88)
 ## Nombre épico creado en la página [dcode.fr](https://www.dcode.fr/mezclador-palabras)
 * Somos un equipo interprovincial :chart_with_upwards_trend:
 * Creemos que el mate amargo es excepcional :mate: y no hay discusión alguna
